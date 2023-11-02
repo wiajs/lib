@@ -1,24 +1,28 @@
-English | [Chinese](./README.CN.md)
+Chinese | [English](./README.md)
 
-# Wia Libs
+# Wia 库
 
-Libs for [wia](https://www.wia.pub) applications.
+创建[wia](https://www.wia.pub) 应用的功能库。
 
-See [wia components](https://www.wia.pub/doc/lib.html) documentation for detailed description.
+功能库与组件不同，库不含UI，纯代码库，组件含UI部分。
 
-## install
+将纯代码库与组件分离开，方便使用。
 
-You will need Node.js installed on your system.
+详细信息请参建 [wia components](https://www.wia.pub/doc/lib.html)。
 
-First, install
+## 安装
+
+需 Node.js 环境。
+
+安装 wia 库
 
 ```bash
 $ npm install @wiajs/lib
 ```
 
-## To use
+## 使用
 
-Excel Export
+比如 页面Excel导出。
 
 ```js
 import ExcelExport from '@wiajs/lib/excelExport';

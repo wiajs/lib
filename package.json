@@ -1,0 +1,31 @@
+{
+  "name": "@wiajs/lib",
+  "version": "1.0.1",
+  "description": "wia lib",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiajs/lib.git"
+  },
+  "keywords": [
+    "wia",
+    "lib"
+  ],
+  "author": {
+    "name": "Sibyl Yu",
+    "email": "sibyl@wia.pub"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiajs/lib/issues"
+  },
+  "homepage": "https://www.wia.pub/lib",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
